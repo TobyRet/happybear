@@ -1,5 +1,4 @@
 def hello_world
-	print "Hello world! \n"
+	print "Hello world!\n"
 end
 
-hello_world
